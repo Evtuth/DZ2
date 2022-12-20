@@ -17,5 +17,5 @@ if (a >= 100 && a <= 999)
 }
 else
 {
-    Console.WriteLine($"Неверное число!!!");
+    Console.WriteLine("Неверное число!!!");
 }
